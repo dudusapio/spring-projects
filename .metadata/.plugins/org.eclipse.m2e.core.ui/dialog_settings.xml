@@ -4,4 +4,21 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\ElasticSearch\demo"/>
+			<item value="D:\ElasticSearch\SearchElasticsearchh"/>
+			<item value="D:\ElasticSearch\SearchElasticsearch"/>
+			<item value="D:\ElasticSearch\SearchElasticsearchApplication"/>
+			<item value="D:\Java\spring-projects\SearchElasticsearch"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>

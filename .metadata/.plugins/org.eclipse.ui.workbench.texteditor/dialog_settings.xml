@@ -6,18 +6,25 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Product"/>
+		<item key="selection" value="source"/>
 		<list key="findhistory">
+			<item value="source"/>
+			<item value="page_size"/>
+			<item value="page"/>
+			<item value="total"/>
+			<item value="elasticsearch"/>
+			<item value="elastic"/>
 			<item value="User"/>
 		</list>
 		<list key="replacehistory">
+			<item value="opensearch"/>
 			<item value="Product"/>
 			<item value="Category"/>
 			<item value="Order"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1002"/>
+		<item key="DIALOG_X_ORIGIN" value="555"/>
 		<item key="DIALOG_Y_ORIGIN" value="357"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
